@@ -1,0 +1,209 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  min-height: 100vh;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  padding: 25px;
+}
+
+html, body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  width: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+hr {
+  height: 2px;
+  background-color: white;
+  border: none;
+  margin-bottom: 15px;
+}
+
+.default {
+  background-image: url('./assets/europe/europe day hot.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.africadayhot {
+  background-image: url('./assets/africa/africa day hot.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.africadaycold {
+  background-image: url('./assets/africa/africa day cold.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.africanighthot {
+  background-image: url('./assets/africa/africa night hot.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.africanightcold {
+  background-image: url('./assets/africa/africa night cold.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.asiadayhot {
+  background-image: url('./assets/asia/asia day hot.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.asiadaycold {
+  background-image: url('./assets/asia/asia day cold.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.asianighthot {
+  background-image: url('./assets/asia/asia night hot.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.asianightcold {
+  background-image: url('./assets/asia/asia night cold.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.europedayhot {
+  background-image: url('./assets/europe/europe day hot.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.europedaycold {
+  background-image: url('./assets/europe/europe day cold.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.europenighthot {
+  background-image: url('./assets/europe/europe night hot.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.europenightcold {
+  background-image: url('./assets/europe/europe night cold.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.northamericadayhot {
+  background-image: url('./assets/north america/north day hot.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.northamericadaycold {
+  background-image: url('./assets/north america/north day cold.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.northamericanighthot {
+  background-image: url('./assets/north america/north night hot.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.northamericanightcold {
+  background-image: url('./assets/north america/north night cold.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.oceaniadayhot {
+  background-image: url('./assets/oceania/oceania day hot.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.oceaniadaycold {
+  background-image: url('./assets/oceania/oceania day cold.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.oceanianighthot {
+  background-image: url('./assets/oceania/oceania night hot.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.oceanianightcold {
+  background-image: url('./assets/oceania/oceania night cold.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.southamericadayhot {
+  background-image: url('./assets/south america/south day hot.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.southamericadaycold {
+  background-image: url('./assets/south america/south day cold.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.southamericanighthot {
+  background-image: url('./assets/south america/south night hot.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.southamericanightcold {
+  background-image: url('./assets/south america/south night cold.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}

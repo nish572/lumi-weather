@@ -1,0 +1,25 @@
+.info-container {
+  color: white;
+  text-align: center;
+}
+
+.location{
+  font-size: 40px;
+  font-weight: lighter;
+  text-transform: capitalize;
+}
+
+.temperature {
+  font-size: 140px;
+  font-weight: bold;
+}
+
+.realfeel {
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+.precipitation {
+  font-size: 25px;
+  font-weight: lighter;
+}

@@ -1,0 +1,24 @@
+.info-container {
+  color: white;
+  text-align: center;
+  height: 100vh;
+  margin-top: 30px;
+}
+  
+.sunrise {
+  font-size: 25px;
+  font-weight: lighter;
+}
+.sunset {
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+.humidity {
+  font-size: 25px;
+  font-weight: lighter;
+}
+.pressure {
+  font-size: 25px;
+  font-weight: lighter;
+  }
